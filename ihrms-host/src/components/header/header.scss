@@ -1,0 +1,23 @@
+.ant-badge {
+  &-count {
+    display: flex !important;
+    height: 14px !important;
+    min-width: 20px !important;
+    padding: 0 6px !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    position: absolute !important;
+    right: -0.125rem !important;
+    top: -0.325rem !important;
+    transform: translate(50%, -50%) !important;
+    border-radius: 10px !important;
+    border: 1px solid #fff !important;
+    background: #ff4d4f !important;
+    line-height: 20px !important;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    box-shadow: 0 0 0 1px #fff !important;
+    z-index: 1 !important;
+  }
+}
